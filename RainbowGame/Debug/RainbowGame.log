@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (RainbowGame.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  View.cpp
+c:\users\harry\google drive\year 2\programs\ponggame\rainbowgame\view.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\harry\google drive\year 2\programs\ponggame\rainbowgame\view.cpp(56): warning C4018: '>': signed/unsigned mismatch
+  RainbowGame.vcxproj -> C:\Users\harry\Google Drive\Year 2\Programs\PongGame\Debug\PongGame.exe
